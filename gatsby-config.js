@@ -3,7 +3,7 @@ module.exports = {
         {
             resolve: 'gatsby-theme-portfolio-minimal',
             options: {
-                siteUrl: "https://carot.io", // Used for sitemap generation
+                siteUrl: "https://glistening-tanuki-2545a2.netlify.app/", // Used for sitemap generation
                 manifestSettings: {
                     favicon: './content/images/favicon.png', // Path is relative to the root
                     siteName: 'My Minimal Portfolio', // Used in manifest.json
