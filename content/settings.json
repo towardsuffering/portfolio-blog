@@ -6,27 +6,26 @@
         "title": "RDS MySQL Database Administrator",
         "titleTemplate": "%s · A Gatsby Theme",
         "description": "Landing Page / Blog",
-        "author": "Konstantin Münster",
+        "author": "Chris Rotunno",
         "avatar": "../content/images/gatsby.png",
         "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
         "social": {
             "behance": "https://behance.com",
-            "github": "https://github.com/konstantinmuenster",
-            "medium": "https://konstantinmuenster.medium.com",
-            "linkedin": "https://linkedin.com",
-            "twitter": "https://twitter.com",
-            "mail": "mailto:mail@konstantin.digital"
-        }
+            "github": "https://github.com/towardsuffering",
+            "medium": "https://carotunno.medium.com",
+            "linkedin": "https://www.linkedin.com/in/carotunno/",
+            "mail": "mailto:christopher.rotunno@outlook.com"
+          }
     },
     "siteConfiguration": {
-        "logo": { "text": "Gatsby" },
+        "logo": { "text": "caRot" },
         "navigation": {
             "header": [
+                { "label": "", "url": "/blog" },
                 { "label": "About", "url": "/#about" },
-                { "label": "Blog", "url": "/blog" },
-                { "label": "Features", "url": "/#features" },
-                { "label": "Github", "url": "/#github" }
-            ],
+                { "label": "Interests", "url": "/#interests" },
+                { "label": "Contact", "url": "/#contact" }
+              ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/resume.pdf" },
             "footer": [
                 { "label": "Privacy", "url": "/privacy" },
@@ -36,7 +35,7 @@
         "featureToggles": {
             "useDarkModeAsDefault": false,
             "useDarkModeBasedOnUsersPreference": true,
-            "useCookieBar": false
+            "useCookieBar": true
         }
     }
 }

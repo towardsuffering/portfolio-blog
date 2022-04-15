@@ -1,48 +1,65 @@
 {
     "projects": [
-        {
-            "visible": true,
-            "category": "🕹️ EASY AND QUICK SETUP",
-            "title": "Add content and deploy!",
-            "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-            "tags": ["Content Integration", "Ready-2-Deploy"],
-            "image": {
-                "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-                "alt": "Quick Setup",
-                "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-            },
-            "links": [
-                {
-                    "type": "github",
-                    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-                },
-                {
-                    "type": "external",
-                    "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-                }
-            ]
+      {
+        "visible": true,
+        "category": "🪙 TRANSACTIONS, CASH FLOW, DEBT AND TAXES",
+        "title": "Decentralized Finance",
+        "description": "Including the study of cryptocurrency, decentralized applications, distributed ledgers, blockchains, smart contracts, digital wallets, blockchain oracles, decentralized exchanges, banks, thrifts and mortgage finance, diversified financial services, consumer finance, capital markets and mortgage real estate investment trusts",
+        "tags": ["Bitcoin", "Ethereum", "Alt Coins", "Stable Coins"],
+        "image": {
+          "src": "../../images/eth-min.jpg",
+          "alt": "Quick Setup"
         },
-        {
-            "visible": true,
-            "category": "🧰 EXTENDABLE LAYOUT",
-            "title": "Add more sections!",
-            "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-            "tags": ["Custom Sections", "Easy-2-Use"],
-            "image": {
-                "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-                "alt": "Extendable Layout"
-            },
-            "links": [
-                {
-                    "type": "github",
-                    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-                }
-            ]
-        }
+        "links": [
+          {
+            "type": "",
+            "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          },
+          {
+            "type": "",
+            "url": "https://unsplash.com/@theshubhamdhage"
+          }
+        ]
+      },
+      {
+        "visible": true,
+        "category": "🌐 SENDING AND RECEIVING INFORMATION",
+        "title": "Web Development 3.0",
+        "description": "Including the study of coding, open-source software, software as a service (SaaS), content management, user interfaces, client-side scripting, server-side scripting, network connectivity, network security, web mail, e-commerce, progressive web applications, short-term memory, long-term memory, storage, cloud services",
+        "tags": ["Front End", "Back End", "Full Stack"],
+        "image": {
+          "src": "../../images/web-min.jpg",
+          "alt": "Extendable Layout"
+        },
+        "links": [
+          {
+            "type": "",
+            "url": "https://unsplash.com/@sortino"
+          }
+        ]
+      }, 
+      {
+        "visible": true,
+        "category": "📈 DECISION-MAKING",
+        "title": "Data Science",
+        "description": "Including the study of statistical methods, insights engines, decision management, disparate data, descriptive, predictive, and prescriptive analytics, target market selection, new product introductions, customer retention, pricing, segmentation, promotion, data warehouses, data lakes, cloud computing, artifical intelligence, machine learning",
+        "tags": ["Visualization", "Interpretation", "Storytelling"],
+        "image": {
+          "src": "../../images/strike-min.jpg",
+          "alt": "Extendable Layout"
+        },
+        "links": [
+          {
+            "type": "",
+            "url": "https://unsplash.com/@felix_mittermeier"
+          }
+        ]
+      }
     ],
     "button": {
-        "visible": true,
-        "label": "Visit on Github",
-        "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+      "visible": false,
+      "label": "Visit on Github",
+      "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
     }
-}
+  }
+  

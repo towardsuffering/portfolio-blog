@@ -1,13 +1,14 @@
 {
-    "name": "Gatsby Theme Portfolio Minimal",
-    "email": "example@mail.com",
-    "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+    "name": "Chris Rotunno",
+    "email": "christopher.rotunno@outlook.com",
+    "description": "I check my inbox frequently, reach out with any questions, comments, or concerns",
     "image": {
-        "src": "../../images/favicon.png",
-        "alt": "Gatsby Logo"
+      "src": "../../images/profile.png",
+      "alt": "Gatsby Logo"
     },
     "socialProfiles": {
-        "from": ["LinkedIn", "Medium", "Github", "Mail"],
-        "showIcons": true
+      "from": ["LinkedIn", "Medium", "Github"],
+      "showIcons": true
     }
-}
+  }
+  

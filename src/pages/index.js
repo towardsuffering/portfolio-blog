@@ -13,14 +13,14 @@ import {
 export default function IndexPage() {
     return (
         <>
-            <Seo title="Gatsby Theme Portfolio Minimal" />
+            <Seo title="caRot" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
-                <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
-                <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-                <InterestsSection sectionId="details" heading="Details" />
-                <ProjectsSection sectionId="features" heading="Built-in Features" />
-                <ContactSection sectionId="github" heading="Issues?" />
+                <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
+                <AboutSection sectionId="about" heading="Profile" />
+                <InterestsSection sectionId="details" heading="Favorite Tools" />
+                <ProjectsSection sectionId="features" heading="Professional Interests" />
+                <ContactSection sectionId="github" heading="Get Ahold of Me!" />
             </Page>
         </>
     );

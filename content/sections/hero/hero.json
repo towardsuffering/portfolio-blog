@@ -1,18 +1,19 @@
 {
-    "intro": "Hello",
+    "intro": "",
     "image": {
-        "src": "../../images/waving-hand.png",
-        "alt": "Waving Hand Emoji"
+      "src": "",
+      "alt": "Waving Hand Emoji"
     },
-    "title": "I'm a Gatsby Theme",
+    "title": "Chris Rotunno",
     "subtitle": {
-        "prefix": "I make portfolios ",
-        "highlight": "awesome",
-        "suffix": "."
+      "prefix": "",
+      "highlight": "RDS MySQL Database Administrator",
+      "suffix": ""
     },
-    "description": "A modern portfolio with a minimalistic design.",
+    "description": "Personal landing page and business technology blog",
     "socialProfiles": {
-        "from": ["LinkedIn", "Medium", "Github", "Mail"],
-        "showIcons": false
+      "from": ["LinkedIn", "Medium", "Github", "Mail"],
+      "showIcons": false
     }
-}
+  }
+  
