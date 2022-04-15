@@ -22,9 +22,9 @@
         "navigation": {
             "header": [
                 { "label": "", "url": "/blog" },
-                { "label": "About", "url": "/#about" },
-                { "label": "Interests", "url": "/#interests" },
-                { "label": "Contact", "url": "/#contact" }
+                { "label": "About", "url": "/#Profile" },
+                { "label": "Interests", "url": "/#Professional Interests" },
+                { "label": "Contact", "url": "/#Get Ahold of Me!" }
               ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Rotunno_Christopher_Resume.pdf" },
             "footer": [
