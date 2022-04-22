@@ -16,7 +16,7 @@ export default function IndexPage() {
             <Seo title="caRot" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
-                <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
+                <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
                 <AboutSection sectionId="about" heading="Profile" />
                 <InterestsSection sectionId="details" heading="Favorite Tools" />
                 <ProjectsSection sectionId="interests" heading="Professional Interests" />
