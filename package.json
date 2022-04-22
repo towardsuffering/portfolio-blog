@@ -13,6 +13,7 @@
     },
     "dependencies": {
         "gatsby": "^4.12.1",
+        "gatsby-cli": "^4.12.1",
         "gatsby-theme-portfolio-minimal": "*",
         "react": "^17.0.2",
         "react-dom": "^17.0.2"
