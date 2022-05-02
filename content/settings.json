@@ -1,11 +1,11 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "https://rotunno-profile.netlify.app",
+        "siteUrl": "https://carot.io",
         "thumbnail": "../content/images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "title": "RDS MySQL Database Administrator",
+        "title": "caRot",
         "titleTemplate": "%s · A Gatsby Theme",
-        "description": "Landing Page / Blog",
+        "description": "A progressive, single-page web application built with GatsbyJS that showcases my knowledge, skills, abilities, and organization in business technology",
         "author": "Chris Rotunno",
         "avatar": "../content/images/gatsby.png",
         "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",

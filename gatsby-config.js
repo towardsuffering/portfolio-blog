@@ -3,7 +3,7 @@ module.exports = {
         {
             resolve: 'gatsby-theme-portfolio-minimal',
             options: {
-                siteUrl: "https://rotunno-profile.netlify.app", // Used for sitemap generation
+                siteUrl: "https://carot.io", // Used for sitemap generation
                 manifestSettings: {
                     favicon: './content/images/favicon.png', // Path is relative to the root
                     siteName: 'caRot', // Used in manifest.json
