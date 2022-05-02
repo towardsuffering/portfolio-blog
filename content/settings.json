@@ -1,9 +1,9 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "https://CAROT.IO/",
+        "siteUrl": "https://carot.io/",
         "thumbnail": "../content/images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "title": "caRot",
+        "title": "caRot Blog",
         "titleTemplate": "%s · A Gatsby Theme",
         "description": "A progressive, single-page web application built with GatsbyJS that showcases my knowledge, skills, abilities, and organization in business technology",
         "author": "Chris Rotunno",

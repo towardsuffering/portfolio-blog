@@ -3,10 +3,10 @@ module.exports = {
         {
             resolve: 'gatsby-theme-portfolio-minimal',
             options: {
-                siteUrl: "https://CAROT.IO/", // Used for sitemap generation
+                siteUrl: "https://carot.io/", // Used for sitemap generation
                 manifestSettings: {
                     favicon: './content/images/favicon.png', // Path is relative to the root
-                    siteName: 'caRot', // Used in manifest.json
+                    siteName: 'caRot Blog', // Used in manifest.json
                     shortName: 'Landing Page', // Used in manifest.json
                     startUrl: '/', // Used in manifest.json
                     backgroundColor: '#FFFFFF', // Used in manifest.json

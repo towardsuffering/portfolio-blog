@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
     return (
         <>
-            <Seo title="caRot" />
+            <Seo title="caRot Blog" />
             <Page useSplashScreenAnimation>
                 <HeroSection sectionId="hero" />
                 <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
