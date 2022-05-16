@@ -25,8 +25,8 @@
         "visible": true,
         "category": "🌐 SENDING AND RECEIVING INFORMATION",
         "title": "Web Development 3.0",
-        "description": "Including the study of coding, open-source software, software as a service (SaaS), content management, user interfaces, client-side scripting, server-side scripting, network connectivity, network security, web mail, e-commerce, progressive web applications, short-term memory, long-term memory, storage, cloud services",
-        "tags": ["Front End", "Back End", "Full Stack"],
+        "description": "Including the study of coding, cryptography, communications, blockchains, open-source software, software as a service (SaaS), content management, user interfaces, client-side scripting, server-side scripting, network connectivity, network security, web mail, e-commerce, progressive web applications, short-term memory, long-term memory, storage and cloud services",
+        "tags": ["Full Stack", "Protocols", "Trust"],
         "image": {
           "src": "../../images/web-min.jpg",
           "alt": "Extendable Layout"
@@ -42,7 +42,7 @@
         "visible": true,
         "category": "📈 DECISION-MAKING",
         "title": "Data Science",
-        "description": "Including the study of statistical methods, insights engines, decision management, disparate data, descriptive, predictive, and prescriptive analytics, target market selection, new product introductions, customer retention, pricing, segmentation, promotion, data warehouses, data lakes, cloud computing, artifical intelligence, machine learning",
+        "description": "Including the study of statistical methods, insights engines, decision management, disparate data, descriptive, predictive, and prescriptive analytics, target market selection, new product introductions, customer retention, pricing, segmentation, promotion, data warehouses, data lakes, cloud computing, machine learning and artifical intelligence",
         "tags": ["Visualization", "Interpretation", "Storytelling"],
         "image": {
           "src": "../../images/strike-min.jpg",

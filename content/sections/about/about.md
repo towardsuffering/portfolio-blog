@@ -9,6 +9,6 @@ imageAlt: "About Gatsby Theme Portfolio Minimal"
 
 💼 Experienced in retail and corporate culture
 
-🎯 Career objective is to prioritize business activities with negative externalities and growth in mind
+🎯 Career objective is to prioritize business activities with market failures and growth in mind
 
 Photo by <a href="https://unsplash.com/@clemhlrdt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Clément H </u></a> on Unsplash
